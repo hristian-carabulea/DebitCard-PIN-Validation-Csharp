@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment12-Pin-Validation", "Assignment12-Pin-Validation\Assignment12-Pin-Validation.csproj", "{0904D525-94C8-40EC-89F8-8E18179A6B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebitCard", "DebitCard\DebitCard.csproj", "{D2266400-2AE6-49A3-9763-14A1F3D2773F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0904D525-94C8-40EC-89F8-8E18179A6B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0904D525-94C8-40EC-89F8-8E18179A6B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0904D525-94C8-40EC-89F8-8E18179A6B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0904D525-94C8-40EC-89F8-8E18179A6B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2266400-2AE6-49A3-9763-14A1F3D2773F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2266400-2AE6-49A3-9763-14A1F3D2773F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2266400-2AE6-49A3-9763-14A1F3D2773F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2266400-2AE6-49A3-9763-14A1F3D2773F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89BB7F1A-A8B0-4089-8B17-E831812F7566}
+	EndGlobalSection
+EndGlobal
